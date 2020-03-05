@@ -2,7 +2,7 @@
 
 Curious reader [@plasticmind](https://github.com/plasticmind) asked [this question on the Twitter](https://twitter.com/plasticmind/status/1235589410789285889):
 
-    Dear lazyweb: does anyone know of a way to pull the Instagram feed for a particular user into a site automatically without needing to pay a monthly subscription for a service? Happy to entertain dev-related options.
+_Dear lazyweb: does anyone know of a way to pull the Instagram feed for a particular user into a site automatically without needing to pay a monthly subscription for a service? Happy to entertain dev-related options._
 
 The answer is, as always, "it depends." If it's your account, you can do this with Pinterest, and along the way make sure that any time one of your Instagram posts winds up on Pinterest it will have correct attribution.
 
