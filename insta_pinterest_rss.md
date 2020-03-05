@@ -1,6 +1,6 @@
 # Instagram RSS via Pinterest
 
-Curious reader @plasticmind [asked this question on the Twitter](https://twitter.com/plasticmind/status/1235589410789285889):
+Curious reader [@plasticmind](https://github.com/plasticmind) [asked this question on the Twitter](https://twitter.com/plasticmind/status/1235589410789285889):
 
     Dear lazyweb: does anyone know of a way to pull the Instagram feed for a particular user into a site automatically without needing to pay a monthly subscription for a service? Happy to entertain dev-related options.
 
